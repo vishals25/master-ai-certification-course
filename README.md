@@ -1,32 +1,32 @@
 The "Master AI Certification Course" by Sharath Raju on Udemy is designed to equip students with advanced skills to develop AI applications using LangChain and Large Language Models (LLMs) such as those from OpenAI and Hugging Face. This course covers a wide range of practical projects and concepts, including:
 
-    Introduction to LangChain and OpenAI:
-        Overview of LangChain's capabilities and benefits.
-        Understanding the components like LLM wrappers, prompt templates, and memory.
+Introduction to LangChain and OpenAI:
+    Overview of LangChain's capabilities and benefits.
+    Understanding the components like LLM wrappers, prompt templates, and memory.
 
-    Hands-on Projects:
-        Question-Answering App: Build an application using LangChain and Hugging Face.
-        Conversational Bot: Develop a bot that can interact with users effectively.
-        AI App for Kids: Create an educational app tailored for children.
-        Marketing Campaign App: Construct an app to generate persuasive sales copy.
-        ChatGPT Clone: Develop a chatbot with summarization capabilities.
-        MCQ Quiz Creator: An app to generate multiple-choice questions.
-        CSV Data Analysis Tool: Analyze CSV data by querying it.
-        YouTube Script Writing Tool: Create scripts for YouTube videos.
-        Support Chat Bot: Assist website visitors by providing relevant information.
-        Automatic Ticket Classification Tool: Categorize support tickets efficiently.
-        HR Resume Screening Assistant: Optimize the hiring process by screening resumes.
+Hands-on Projects:
+    Question-Answering App: Build an application using LangChain and Hugging Face.
+    Conversational Bot: Develop a bot that can interact with users effectively.
+    AI App for Kids: Create an educational app tailored for children.
+    Marketing Campaign App: Construct an app to generate persuasive sales copy.
+    ChatGPT Clone: Develop a chatbot with summarization capabilities.
+    MCQ Quiz Creator: An app to generate multiple-choice questions.
+    CSV Data Analysis Tool: Analyze CSV data by querying it.
+    YouTube Script Writing Tool: Create scripts for YouTube videos.
+    Support Chat Bot: Assist website visitors by providing relevant information.
+    Automatic Ticket Classification Tool: Categorize support tickets efficiently.
+    HR Resume Screening Assistant: Optimize the hiring process by screening resumes.
 
-    Technical Skills:
-        Practical implementation of LLMs using Python.
-        Integration of frontend and backend components.
-        Modularizing code and passing dynamic data.
-        Use of embeddings and vector data stores for enhanced performance.
+Technical Skills:
+    Practical implementation of LLMs using Python.
+    Integration of frontend and backend components.
+    Modularizing code and passing dynamic data.
+    Use of embeddings and vector data stores for enhanced performance.
 
-    Advanced Concepts:
-        Prompt engineering, including Chain of Thought and Few Shot prompting.
-        Utilizing different types of memory in LLM applications.
-        Navigating LangChain's open-source codebase.
+Advanced Concepts:
+    Prompt engineering, including Chain of Thought and Few Shot prompting.
+    Utilizing different types of memory in LLM applications.
+    Navigating LangChain's open-source codebase.
 
 This course is not suitable for beginners; it requires a background in software engineering and proficiency in Python. By the end of the course, students will be capable of developing robust, real-time LangChain LLM projects.
 
