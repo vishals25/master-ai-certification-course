@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+from langchain_openai import ChatOpenAI
+>>>>>>> c7eef0a5fe8a3447a7f114a4a67bc800d96f7bff
 from langchain.schema import HumanMessage, SystemMessage
 from langchain_huggingface import HuggingFaceEndpoint
 from io import StringIO
