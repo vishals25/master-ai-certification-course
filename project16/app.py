@@ -48,7 +48,7 @@ if data:
     st.write(fetched_data)
 
     # Initialize a ChatOpenAI instance with the specified model name "gpt-3.5-turbo" and a temperature of 0.9.
-    chat = HuggingFaceEndpoint(repo_id="mistralai/Mistral-7B-Instruct-v0.3", temperature=0.9)
+    chat = HuggingFaceEndpoint(repo_id="mistralai/Mistral-7B-Instruct-v0.3", temperature=0.9,verbose=True,top_p=0.99)
     # chat = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.9)
 
     # Create a SystemMessage instance with the specified content, providing information about the assistant's role.
