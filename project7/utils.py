@@ -10,7 +10,7 @@ def query_agent(data, query):
 
         # Define the Hugging Face endpoint for the language model.
         llm = HuggingFaceEndpoint(
-            repo_id="huggingfaceh4/zephyr-7b-alpha"
+            repo_id="mistralai/Mistral-7B-Instruct-v0.3"
         )
         
         # Create a Pandas DataFrame agent.

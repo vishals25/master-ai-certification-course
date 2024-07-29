@@ -22,7 +22,7 @@ llm = HuggingFaceHub(
 
 # Initialize the chat model
 llms = HuggingFaceHub(
-    repo_id="HuggingFaceH4/zephyr-7b-alpha",
+    repo_id="mistralai/Mistral-7B-Instruct-v0.3",
     model_kwargs={
         "temperature": 0.7,
         "max_length": 65,
